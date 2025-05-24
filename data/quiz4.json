@@ -1,0 +1,45 @@
+{
+    "fragen": [
+      {
+        "frage": "Welches Adjektiv beschreibt, wie das Haus aussehen soll?",
+        "antworten": ["lebendig", "lebenskräftig", "lebensfroh", "lebensbejahend", "vital", "lebensvoll", "lebenswichtig", "lebensstark", "lebensfreudig", "lebenskräftig", "lebensfrisch", "lebensfrisch", "lebenskräftig", "lebensprall", "lebenskräftig", "lebensbejahend", "lebenskräftig", "lebenskräftig", "lebenskräftig", "lebensbejahend"]
+      },
+      {
+        "frage": "Wozu wurde seine Heimat laut Text, als die Kommunisten griffen?",
+        "antworten": ["falle", "tücke", "lockvogel", "hinterhalt", "fangvorrichtung", "netz", "fessel", "fanganlage", "verhängnis", "falle stellen", "falle greifen", "auslösung", "fallenstellung", "tückische stelle", "verstrickung", "fesselung", "fang", "einrichtung", "fallenmechanismus", "gefahr"]
+      },
+      {
+        "frage": "Welches Bauteil hat der Architekt selbst mitgemauert?",
+        "antworten": ["schornstein", "kamin", "rauchfang", "abzug", "rauchrohr", "abzugskanal", "kaminschacht", "rauchabzug", "kaminrohr", "abzugsrohr", "schlot", "kaminzug", "feuerungsanlage", "abluftrohr", "rauchleitung", "kaminschlot", "abgasrohr", "feuerrauchabzug", "rauchkanal", "lüftungsschacht"]
+      },
+      {
+        "frage": "Mit welchem Baum ist sein Geld „verwurzelt“?",
+        "antworten": ["eichen", "kalibrieren", "justieren", "ausrichten", "überprüfen", "validieren", "nachmessen", "einmessen", "abgleichen", "anpassen", "testen", "kontrollieren", "normieren", "einstellen", "verifizieren", "regeln", "angleichen", "kalibrieren", "prüfen", "abgleichen"]
+      },
+      {
+        "frage": "Welches Material verweigert von außen den Einblick?",
+        "antworten": ["glas", "scheibe", "fensterglas", "spiegelglas", "trübglas", "klarglas", "sicherheitsglas", "hartglas", "fenster", "glaselement", "glasplatte", "glasfenster", "durchsichtige scheibe", "kristallglas", "mundgeblasenes glas", "glasgefäß", "glaskörper", "transparentes material", "glasfasern", "glashülle"]
+      },
+      {
+        "frage": "Welches Wort beschreibt dem Bleiben, was der Architekt gibt?",
+        "antworten": ["körper", "organismus", "leib", "gestalt", "organ", "körperbau", "leibesform", "körpermasse", "körperteil", "körperhülle", "leiblichkeit", "physische form", "körperstruktur", "körpergestalt", "körperliches sein", "leiblichkeit", "körperliche beschaffenheit", "körperform", "körpervolumen", "körperliches wesen"]
+      },
+      {
+        "frage": "Was kauft er zusätzlich zum Haus?",
+        "antworten": ["grundstück", "parzelle", "landstück", "areal", "baugrund", "flurstück", "bauplatz", "gelände", "bodenfläche", "grundeigentum", "baufläche", "landsitz", "grundbesitz", "baugrundstück", "landbesitz", "parzellenstück", "geländefläche", "landfläche", "grundfläche", "grundareal"]
+      },
+      {
+        "frage": "Welcher Staat wird im Text kritisch dargestellt?",
+        "antworten": ["ddr", "deutsche demokratische republik", "ostdeutschland", "ostblockstaat", "sozialistischer staat", "ostzone", "ostdeutsche republik", "sozialistische republik", "kommunistischer staat", "ostdeutsche ddr", "deutsch-deutsche republik", "ostdeutsche nation", "ostdeutsches land", "deutsche sozialistische republik", "deutsche demokratische demokratie", "ostdeutscher staat", "kommunistische republik", "ostdeutsche gebiete", "deutschlands ostteil", "deutsches ostterritorium"]
+      },
+      {
+        "frage": "Wie nennt der Text das Licht hinter den bunten Fenstern?",
+        "antworten": ["licht", "beleuchtung", "schein", "strahlung", "glanz", "leuchten", "helligkeit", "scheinwerfer", "lampenlicht", "tageslicht", "lichterscheinung", "lichtstrahl", "leuchtkraft", "beleuchtungsquelle", "glühen", "strahlkraft", "lichtquelle", "lichtschein", "leuchtstrahl", "lichtreflex"]
+      },
+      {
+        "frage": "Womit hält das Boot am Steg?",
+        "antworten": ["kette", "reihung", "verband", "serie", "folge", "kettenzug", "kettenreaktion", "kettenglied", "kettenkette", "kettenband", "kordel", "schnur", "gliederkette", "kettenlinie", "kettenstruktur", "kettenwerk", "kettenelement", "kettenverbindung", "kettenstrecke", "kettengeflecht"]
+      }
+    ]
+  }
+  

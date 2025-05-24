@@ -1,0 +1,44 @@
+{
+  "fragen": [
+    {
+      "frage": "Wie bezeichnet der Architekt sein Haus?",
+      "antworten": ["haut", "epidermis", "lederhaut", "oberhaut", "leder", "hautschicht", "kutis", "epiderm", "hautschicht", "hautgewebe", "hautfilm", "hautoberfläche", "hautmantel", "hautstruktur", "oberflächenhaut", "hautbarriere", "schutzschicht", "epithel", "hautzelle", "oberflächengewebe", "3.haut", "dritthaut"]
+    },
+    {
+      "frage": "Welches Element wird in dem Text als „vierter“ Parameter neben Höhe, Breite und Tiefe genannt?",
+      "antworten": ["zeit", "dauer", "periode", "abschnitt", "moment", "epoche", "phase", "intervall", "zyklus", "augeblick", "epoch", "fristen", "frist", "stunden", "tage", "jahr", "jahrhundert", "jahrtausend", "sekunden", "minuten"]
+    },
+    {
+      "frage": "Was plant der Architekt laut Text?",
+      "antworten": ["heimat", "zuhause", "geburtsort", "wohnsitz", "heimstätte", "vaterland", "mutterland", "wohnort", "ursprung", "herkunft", "wohnheim", "heimische region", "land", "heimischer ort", "wohngebiet", "boden", "heimische gegend", "herkunftsort", "heimsitz", "heimatzone"]
+    },
+    {
+      "frage": "Was lässt der Architekt an der Tür stecken, als er flieht?",
+      "antworten": ["schlüssel", "code", "passwort", "öffner", "schließwerkzeug", "zugangscode", "türschlüssel", "schließmittel", "hausschlüssel", "autoschlüssel", "schlossöffner", "schlüsselsystem", "schlüsselkarte", "zündschlüssel", "sicherheitsschlüssel", "zugangsschlüssel", "geheimcode", "schlüsselform", "schlüsselbund", "entriegeler"]
+    },
+    {
+      "frage": "Welches Gefühl löst das Haus beim Architekten aus?",
+      "antworten": ["verbundenheit", "nähe", "bindung", "zusammenhalt", "gemeinschaft", "verbund", "loyalität", "solidarität", "zusammengehörigkeit", "freundschaft", "intimität", "beziehung", "verbindung", "einheit", "konnexität", "vertrautheit", "kohäsion", "anschluss", "solidarischesgefühl", "vernetzung"]
+    },
+    {
+      "frage": "Wie nennt der Architekt sein Haus im Vergleich zur eigenen Haut?",
+      "antworten": ["dritte", "drittperson", "drittplatzierter", "drittbeteiligter", "drittepartei", "drittel", "drittklassig", "drittrangig", "drittstellig", "drittplatz", "drittesglied", "drittesmitglied", "drittbester", "drittbeste", "drittplatzierte", "drittes", "drittposition", "drittplatzierung", "drittanbieter", "drittausführung"]
+    },
+    {
+      "frage": "Was bedeutet „Heimat“ für den Architekten laut Text?",
+      "antworten": ["haus", "zuhause", "heim", "wohnsitz", "wohnung", "unterkunft", "behausung", "domizil", "quartier", "wohnsiedlung", "wohnort", "heimstätte", "heimplatz", "heimgelände", "wohnraum", "lebensraum", "wohnungseinheit", "wohnbereich", "unterstand", "heimplatz"]
+    },
+    {
+      "frage": "Weshalb muss der Architekt fliehen?",
+      "antworten": ["umstände", "bedingungen", "situationen", "verhältnisse", "lagen", "gegebeneheiten", "faktoren", "konstellationen", "rahmenbedingungen", "verhältnisse", "umgebungen", "kontexte", "zusammenhänge", "einflüsse", "umwelten", "momente", "zustände", "gegebenheiten", "ereignisse", "begebenheiten"]
+    },
+    {
+      "frage": "Was tut der Architekt mit den Gitter um das Haus?",
+      "antworten": ["schützt", "bewahrt", "sichert", "verteidigt", "beschützt", "schirmt ab", "bewacht", "schirmt", "schützt ab", "schützt vor", "schützt gegen", "absichert", "schützt sich", "verteidigt sich", "schirmt sich", "schützt vor schäden", "bewahrt vor", "schützt effektiv", "schützt nachhaltig", "bewahrt sicher"]
+    },
+    {
+      "frage": "Was bedeutet der Schlüssel steckenlassen für den Architekten?",
+      "antworten": ["rückkehr", "heimkehr", "zurückkommen", "heimreise", "rückkehrung", "wiederkehr", "heimfahrt", "heimkehrer", "rückkehrer", "rückkehrzeit", "heimkehrzeit", "zurückkehr", "heimkehren", "heimlaufen", "heimgehen", "rückreise", "nachhausekommen", "rückkehrschritt", "rückweg", "wiedereintritt"]
+    }
+  ]
+}

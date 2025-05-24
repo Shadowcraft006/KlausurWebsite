@@ -1,0 +1,44 @@
+{
+  "fragen": [
+    {
+      "frage": "Was begräbt der Architekt zuerst?",
+      "antworten": ["zinnkrüge", "humpen", "becher", "krüge", "tanks", "gefäße", "trinkgefäße", "bierkrüge", "metkrüge", "tassen", "schnapskrüge", "kannen", "bechergläser", "trinkbecher", "fasskrüge", "weinkrüge", "keramikkrüge", "glaskrüge", "kunststoffkrüge", "sammlerkrüge"]
+    },
+    {
+      "frage": "Wohin blickt der Architekt von seinem Atelier aus?",
+      "antworten": ["see", "gewässer", "teich", "weiher", "binnensee", "bucht", "stausee", "meer", "ozean", "tümpel", "flussarm", "lagune", "binnensee", "talsperre", "wasserfläche", "küstengewässer", "binnensee", "salzsee", "süßwassersee", "küstenmeer"]
+    },
+    {
+      "frage": "Was hört er im Gebälk?",
+      "antworten": ["marder", "wiesel", "frettchen", "hermelin", "iltis", "waldmarder", "baummarder", "steinmarder", "hausmarder", "fischotter", "dachs", "fuchs", "kaninchen", "waschbär", "mauswiesel", "wieselart", "marderhund", "raubtier", "kleinfleischfresser", "carnivor"]
+    },
+    {
+      "frage": "Was riecht er im Zimmer seiner Frau?",
+      "antworten": ["pfefferminz", "minze", "mentha", "grüne minze", "küchenminze", "brunnenminze", "spearmint", "aromatische minze", "frische minze", "pfefferminze", "minzblatt", "minzkraut", "minzöl", "minzextrakt", "minzpflanze", "minzgewächs", "duftminze", "heilpflanze", "kräuterminze", "erfrischungskraut", "kampfer"]
+    },
+    {
+      "frage": "Was klirrt in der Tür zu seinem Atelier?",
+      "antworten": ["milchglas", "mattglas", "satinierglas", "frostglas", "trübglas", "opalglas", "diffusglas", "glas mit mattierung", "opaque glas", "milchiges glas", "weißglas", "halbtransparentes glas", "sandgestrahltes glas", "glas mit struktur", "mattiertes fensterglas", "nebeliges glas", "halbopakes glas", "glas mit milchoptik", "glasfolie", "transluzentes glas"]
+    },
+    {
+      "frage": "Was denkt er, könnte aus dem Besteck wachsen?",
+      "antworten": ["besteck", "besteckteile", "esswerkzeug", "essbesteck", "gabeln", "löffel", "messer", "tafelbesteck", "küchenbesteck", "essutensilien", "speisebesteck", "tafelmesser", "tafellöffel", "tafelforken", "kochbesteck", "servierbesteck", "silberbesteck", "menübesteck", "gedeck", "essgeschirr"]
+    },
+    {
+      "frage": "Wohin bringt er den Spaten zurück?",
+      "antworten": ["werkzeugschuppen", "geräteschuppen", "schuppen", "lagerschuppen", "gartenhaus", "holzschuppen", "aufbewahrungsschuppen", "hütte", "werkstattschuppen", "schuppenbau", "lagerraum", "gartenschuppen", "abstellschuppen", "bauwerkzeuglager", "geräteunterstand", "lagerhütte", "außenlager", "geräteraum", "schuppengebäude", "kleines lager"]
+    },
+    {
+      "frage": "Was hängt er ans Schlüsselbrett?",
+      "antworten": ["schlüssel", "code", "passwort", "türöffner", "schließwerkzeug", "zugangscode", "türschlüssel", "schließmittel", "hausschlüssel", "autoschlüssel", "schlossöffner", "schlüsselsystem", "schlüsselkarte", "zündschlüssel", "sicherheitsschlüssel", "zugangsschlüssel", "geheimcode", "schlüsselform", "schlüsselbund", "entriegeler"]
+    },
+    {
+      "frage": "Woraus ist der Türgriff im Eingangsbereich?",
+      "antworten": ["messing", "kupferlegierung", "bronze", "gelbmetall", "messinglegierung", "kupferzinklegierung", "legierung", "metalllegierung", "kupfermetall", "zinkkupfer", "gelbes metall", "messingblech", "messingdraht", "messingrohr", "metallgemisch", "legierungsmetall", "schmiedemetall", "industriemetall", "messinglegierung", "kupferbasislegierung"]
+    },
+    {
+      "frage": "Was tropft in der Küche?",
+      "antworten": ["wasserhahn", "armatur", "zapfhahn", "hahn", "ventil", "absperrhahn", "wasserarmatur", "hahnstück", "auslaufhahn", "wasserabnehmer", "rohrhahn", "küchenhahn", "badarmatur", "wasserzapfstelle", "drehhahn", "hahnventil", "wasseranschluss", "hahnarmatur", "trinkwasserhahn", "auslaufventil"]
+    }
+  ]
+}

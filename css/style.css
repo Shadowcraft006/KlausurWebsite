@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    height: 100%;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .main-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    gap: 3rem;
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  
+  .image-container {
+    max-width: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .main-image {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    object-fit: contain;
+  }
+  
+  .intro-text {
+    max-width: 500px;
+    text-align: center;
+  }
+  
+  .intro-text h1 {
+    font-size: 2.4rem;
+    margin-bottom: 1rem;
+  }
+  
+  .intro-text p {
+    font-size: 1.1rem;
+    margin-bottom: 1.8rem;
+    line-height: 1.6;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .GruppenText {
+    font-size: clamp(1rem, 2.2vw, 1.25rem);
+    line-height: 1.7;
+    max-width: 65ch;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02));
+    border: 2px solid rgba(255, 255, 255, 0.15);
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6px);
+    color: var(--text-color); /* deine bestehende Farbvariable */
+    text-align: justify;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
+    transition: all 0.3s ease;
+    position: relative;
+  }
+  
+  /* Optional: schöne Zitatlinie links */
+  .GruppenText::before {
+    content: "";
+    position: absolute;
+    top: 1rem;
+    bottom: 1rem;
+    left: 0;
+    width: 5px;
+    background: linear-gradient(to bottom, var(--accent-color), transparent);
+    border-radius: 3px;
+  }
+  
+  /* Bei Hover leicht hervorheben */
+  .GruppenText:hover {
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.15);
+    transform: scale(1.01);
+  }
+  
+  /* Optional: Erste Zeile einrücken */
+  .GruppenText p:first-of-type::first-line {
+    font-weight: 500;
+    letter-spacing: 0.2px;
+  }
+   
+  .modal {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.85);
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  max-width: 90vw;
+  max-height: 90vh;
+  border-radius: 10px;
+}
+
+.leitfragen-section {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 2rem 1rem 0;
+}
+
+.leitfragen-box {
+  background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02));
+  border: 2px solid rgba(255,255,255,0.15);
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+  backdrop-filter: blur(6px);
+  padding: 2rem;
+  max-width: 800px;
+  width: 100%;
+  color: var(--text-color);
+  text-align: left;
+}
+
+.leitfragen-box h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.leitfragen-box ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.leitfragen-box li {
+  font-size: 1.1rem;
+  margin-bottom: 0.8rem;
+  padding-left: 1.2rem;
+  position: relative;
+}
+
+.leitfragen-box li::before {
+  content: "»";
+  position: absolute;
+  left: 0;
+  color: var(--accent-color);
+}

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gruppenübersicht</title>
+  <link rel="icon" type="image/x-icon" href="/images/ArchitektIcon.png">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/css/variables.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="/css/header.css" />
+  <link rel="stylesheet" href="/css/footer.css" />
+  <link rel="stylesheet" href="/css/buttons.css" />
+  <link rel="stylesheet" href="/css/selectpage.css" />
+
+  <!-- JS -->
+  <script src="/js/menu.js"></script>
+</head>
+
+<body>
+
+  <div class="wrapper">
+
+    <!-- Header (wie vorher) -->
+    <header class="site-header">
+      <a href="/html/index.html" class="logo-link">
+        <img src="/images/ArchitektIcon.png" alt="Logo" id="logo" />
+      </a>
+      <button class="menu-toggle" onclick="toggleMenu()" aria-label="Menü öffnen">☰</button>
+      <nav id="mainNav" class="main-nav">
+        <ul>
+          <li><a href="/html/Gruppen/Gruppe1.html">Gruppe 1</a></li>
+          <li><a href="/html/Gruppen/Gruppe2.html">Gruppe 2</a></li>
+          <li><a href="/html/Gruppen/Gruppe3.html">Gruppe 3</a></li>
+          <li><a href="/html/Gruppen/Gruppe4.html">Gruppe 4</a></li>
+          <li><a href="/html/quiz.html" class="primary-btn">Quiz</a></li>
+        </ul>
+      </nav>
+      <a href="/html/index.html" class="home-icon-link">
+        <img src="/images/ArchitektIcon.png" alt="Startseite" class="home-icon" />
+      </a>
+    </header>
+
+    <!-- Hauptinhalt -->
+    <main class="gruppen-section">
+      <h1>Quiz</h1>
+      <div class="gruppen-grid">
+        <div class="gruppe-card">
+          <img src="/images/Grupp1.jpg" alt="Gruppe 1">
+          <div class="gruppe-content">
+            <h3>Gruppe 1</h3>
+            <p>Kreative Konzepte und klare Strukturen – Gruppe 1 stellt sich vor.</p>
+            <a href="/html/Quiz/quiz1.html" class="primary-btn">Ansehen</a>
+          </div>
+        </div>
+
+        <div class="gruppe-card">
+          <img src="/images/Grupp2.jpg" alt="Gruppe 2">
+          <div class="gruppe-content">
+            <h3>Gruppe 2</h3>
+            <p>Innovative Ideen für modernes Wohnen – entdecke Gruppe 2.</p>
+            <a href="/html/Quiz/quiz2.html" class="primary-btn">Ansehen</a>
+          </div>
+        </div>
+
+        <div class="gruppe-card">
+          <img src="/images/Grupp3.jpg" alt="Gruppe 3">
+          <div class="gruppe-content">
+            <h3>Gruppe 3</h3>
+            <p>Visionen mit Perspektive – architektonische Highlights von Gruppe 3.</p>
+            <a href="/html/Quiz/quiz3.html" class="primary-btn">Ansehen</a>
+          </div>
+        </div>
+
+        <div class="gruppe-card">
+          <img src="/images/Grupp4.jpg" alt="Gruppe 4">
+          <div class="gruppe-content">
+            <h3>Gruppe 4</h3>
+            <p>Form, Funktion und Fantasie – kreative Projekte von Gruppe 4.</p>
+            <a href="/html/Quiz/quiz4.html" class="primary-btn">Ansehen</a>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <p>&copy; 2025 Johannes, Nevio, Paul, Valentina</p>
+        <nav>
+          <a href="/html/impressum.html">Impressum</a>
+          <a href="/html/datenschutz.html">Datenschutz</a>
+          <a href="/html/kontakt.html">Kontakt</a>
+        </nav>
+      </div>
+    </footer>
+
+  </div>
+
+</body>
+</html>

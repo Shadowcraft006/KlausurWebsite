@@ -1,0 +1,45 @@
+{
+    "fragen": [
+      {
+        "frage": "Wie wird das Haus metaphorisch beschrieben?",
+        "antworten": ["haut", "epidermis", "oberhaut", "lederhaut", "kutis", "hautschicht", "hautzellen", "hautgewebe", "epithel", "hautfilm", "hautschale", "oberflächenhaut", "schutzschicht", "leder", "hautmantel", "hautschicht", "oberflächengewebe", "hautbarriere", "oberhautgewebe", "epiderm"]
+      },
+      {
+        "frage": "Was schafft Heimat laut Text und Beruf des Architekten?",
+        "antworten": ["planen", "vorhaben", "entwerfen", "organisieren", "gestalten", "arrangieren", "vorbereiten", "konzipieren", "skizzieren", "ausarbeiten", "planmäßigen", "planen", "strukturieren", "festlegen", "planvoll handeln", "projektieren", "planen", "überlegen", "planen", "bestimmen"]
+      },
+      {
+        "frage": "Welches Baumaterial symbolisiert Verwurzelung und Beständigkeit?",
+        "antworten": ["eichen", "kalibrieren", "justieren", "ausrichten", "überprüfen", "validieren", "nachmessen", "einmessen", "abgleichen", "anpassen", "testen", "kontrollieren", "normieren", "einstellen", "verifizieren", "regeln", "angleichen", "kalibrieren", "prüfen", "abgleichen"]
+      },
+      {
+        "frage": "Welches Element hat der Architekt selbst mitgebaut?",
+        "antworten": ["schornstein", "kamin", "rauchfang", "abzug", "rauchrohr", "abzugskanal", "kaminschacht", "rauchabzug", "kaminrohr", "abzugsrohr", "schlot", "kaminzug", "feuerungsanlage", "abluftrohr", "rauchleitung", "kaminschlot", "abgasrohr", "feuerrauchabzug", "rauchkanal", "lüftungsschacht"]
+      },
+      {
+        "frage": "Welche Funktion haben die dicken Mauern und kleinen Fenster?",
+        "antworten": ["wärme", "hitze", "temperatur", "wärmestrom", "wärmezufuhr", "wärmeenergie", "wärmegefühl", "wärmeentwicklung", "wärmestrahlung", "wärmekapazität", "wärmezustand", "heißigkeit", "wärmeabgabe", "wärmedämmung", "wärmeleitung", "thermie", "wärmeisolierung", "wärmequelle", "wärmeverlust", "wärmestufe"]
+      },
+      {
+        "frage": "Was erweitert der Architekt stetig, um seine Heimat wachsen zu lassen?",
+        "antworten": ["grundstück", "landstück", "parzelle", "baugrund", "bauplatz", "areal", "flurstück", "gelände", "bodenfläche", "grundeigentum", "baufläche", "landsitz", "grundbesitz", "baugrundstück", "landbesitz", "parzellenstück", "geländefläche", "landfläche", "grundfläche", "grundareal"]
+      },
+      {
+        "frage": "Welche Beziehung hat der Architekt zu den Arbeitern und Bauern?",
+        "antworten": ["verstanden", "begriffen", "erkannte", "nachvollzogen", "erfasst", "verstanden haben", "verstanden sein", "akzeptiert", "eingesehen", "realisiert", "durchschaut", "begrifen", "verstanden haben", "klar", "bewusst", "verstanden werden", "wahrgenommen", "mitbekommen", "verstanden haben", "verstanden haben"]
+      },
+      {
+        "frage": "Welche Identität verleugnet der Architekt für seinen Ehrgeiz?",
+        "antworten": ["jüdisch", "israelitisch", "hebräisch", "talmudisch", "semitisch", "mosaïsch", "zionistisch", "judentum", "judaistisch", "hebräischstämmig", "jüdischer glaube", "synagogal", "jüdische gemeinschaft", "jüdischer kulturell", "hebräischer abkunft", "jüdische religion", "jüdische tradition", "jüdischer volk", "jüdischer stamm", "jüdische wurzeln"]
+      },
+      {
+        "frage": "Womit vergleicht der Architekt sein Zuhause, das ihn festhält?",
+        "antworten": ["falle", "schirm", "falle", "fangvorrichtung", "tücke", "gefängnis", "tarnung", "netz", "fessel", "fanganlage", "hinterhalt", "auslösung", "verhängnis", "falle stellen", "tückische stelle", "falle greifen", "fesselung", "lockvogel", "verstrickung", "falle zuschnappen"]
+      },
+      {
+        "frage": "Wie wird das Licht hinter den Fenstern erst lebendig?",
+        "antworten": ["benutzt", "verwendet", "gebraucht", "eingesetzt", "ausgenutzt", "angewandt", "gebrauch gemacht", "verwertet", "beansprucht", "genutzt", "ausgebeutet", "verarbeitet", "in anspruch genommen", "verwendet worden", "gebrauchlich", "genutzt worden", "verwendet haben", "gebraucht worden", "eingesetzt worden", "gebraucht haben"]
+      }
+    ]
+  }
+  

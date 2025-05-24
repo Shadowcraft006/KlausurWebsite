@@ -1,0 +1,33 @@
+.quiz-section {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1rem;
+  }
+  
+  .quiz-item {
+    margin-bottom: 1.5rem;
+  }
+  
+  .quiz-item input {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .quiz-item input.richtig {
+    border-color: green;
+    box-shadow: 0 0 8px rgba(0, 255, 0, 0.5);
+  }
+  
+  .quiz-item input.falsch {
+    border-color: red;
+    box-shadow: 0 0 8px rgba(255, 0, 0, 0.5);
+  }
+  
+  .quiz-item button {
+    margin-left: 0.5rem;
+  }
+  
