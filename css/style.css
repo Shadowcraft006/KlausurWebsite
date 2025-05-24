@@ -174,3 +174,21 @@
   left: 0;
   color: var(--accent-color);
 }
+
+.qr-code-container {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.qr-code {
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.qr-code:hover {
+  transform: scale(1.05);
+}
