@@ -2,8 +2,9 @@ let lösungen = [];
 
 window.addEventListener("DOMContentLoaded", () => {
   const jsonName = location.pathname.split("/").pop().replace(".html", "") + ".json";
-
-  fetch(`../../../data/${jsonName}`)
+  const basePath = location.pathname.split("/html")[0];
+  fetch(`${basePath}/data/${jsonName}`)
+  
     .then(res => res.json())
     .then(data => {
       lösungen = data.fragen;
